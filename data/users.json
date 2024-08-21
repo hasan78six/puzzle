@@ -1,0 +1,88 @@
+[
+  {
+    "id": "9211397d-9c3a-4c92-810e-d29e97b3e18d",
+    "username": "hasan223",
+    "email": "hasanabbas78si1x@gmail.com",
+    "password": "$2a$10$o5jQy9UayS7vcnrBg2aUcesPFanFSMEojMcWg8S1E2CN.OuO8PwLq",
+    "puzzles": [
+      {
+        "gridSize": 5,
+        "difficulty": "medium",
+        "timeTaken": 300,
+        "matrix": [
+          [4, 3, 5, 1, 2],
+          [1, 5, 3, 2, 4],
+          [5, 4, 2, 3, 1],
+          [2, 1, 4, 5, 3],
+          [3, 2, 1, 4, 5]
+        ],
+        "score": 200,
+        "timestamp": "2024-08-20T12:34:50.347Z"
+      },
+      {
+        "gridSize": 5,
+        "difficulty": "medium",
+        "timeTaken": 200,
+        "matrix": [
+          [4, 3, 5, 1, 2],
+          [1, 5, 3, 2, 4],
+          [5, 4, 2, 3, 1],
+          [2, 1, 4, 5, 3],
+          [3, 2, 1, 4, 5]
+        ],
+        "score": 200,
+        "timestamp": "2024-08-20T12:48:36.323Z"
+      },
+      {
+        "gridSize": 5,
+        "difficulty": "hard",
+        "timeTaken": 200,
+        "matrix": [
+          [4, 3, 5, 1, 2],
+          [1, 5, 3, 2, 4],
+          [5, 4, 2, 3, 1],
+          [2, 1, 4, 5, 3],
+          [3, 2, 1, 4, 5]
+        ],
+        "score": 400,
+        "timestamp": "2024-08-20T12:48:58.151Z"
+      },
+      {
+        "gridSize": 5,
+        "difficulty": "hard",
+        "timeTaken": 200,
+        "matrix": [
+          [4, 3, 5, 1, 2],
+          [1, 5, 3, 2, 4],
+          [5, 4, 2, 3, 1],
+          [2, 1, 4, 5, 3],
+          [3, 2, 1, 4, 5]
+        ],
+        "score": 400,
+        "timestamp": "2024-08-20T13:20:54.563Z"
+      }
+    ]
+  },
+  {
+    "id": "11d8e53e-ddf6-464a-bea4-a09c9c31b91b",
+    "username": "hasan",
+    "email": "hasanabbas78six@gmail.com",
+    "password": "$2a$10$E6v3SV3NC4.wiVasRiI2e.u.NSwNzTjZ9QUaUUqx4eBAD3sDvmnoC",
+    "puzzles": [
+      {
+        "gridSize": 5,
+        "difficulty": "hard",
+        "timeTaken": 200,
+        "matrix": [
+          [4, 3, 5, 1, 2],
+          [1, 5, 3, 2, 4],
+          [5, 4, 2, 3, 1],
+          [2, 1, 4, 5, 3],
+          [3, 2, 1, 4, 5]
+        ],
+        "score": 400,
+        "timestamp": "2024-08-20T13:21:32.623Z"
+      }
+    ]
+  }
+]
